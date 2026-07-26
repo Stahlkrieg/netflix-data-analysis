@@ -10,7 +10,7 @@ Este proyecto es un dashboard interactivo de Business Intelligence desarrollado 
 * Interactividad: Uso de segmentadores de datos conectados de forma global.
 
 ## 📈 Vista Previa del Dashboard
-![Dashboard Preview](./ruta-de-tu-imagen.png)
+![Dashboard Preview](./Dashboard.png)
 
 ## 🔍 Hallazgos Principales
 * Dominio Geográfico: Estados Unidos lidera de forma absoluta el volumen de producción tanto en películas como en series.

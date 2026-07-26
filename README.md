@@ -18,4 +18,4 @@ Este proyecto es un dashboard interactivo de Business Intelligence desarrollado 
 * Preferencias de Contenido: Los géneros de dramas e internacionales dominan el peso porcentual del catálogo general.
 
 ## 📁 ¿Cómo ver el archivo?
-Puedes descargar el archivo completo **[netflix_titles.xlsx](./netflix_titles.xlsx)** desde este repositorio y abrirlo en Excel para interactuar con los filtros y tablas dinámicas.
+Puedes descargar el archivo completo **[Netflix-Content-Portfolio-Analysis](./Netflix-Content-Portfolio-Analysis.xlsx)** desde este repositorio y abrirlo en Excel para interactuar con los filtros y tablas dinámicas.

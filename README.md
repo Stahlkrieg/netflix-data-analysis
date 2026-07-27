@@ -1,21 +1,21 @@
 # 📊 Netflix Content Portfolio Analysis (Excel)
 
-## 🎯 Descripción del Proyecto
-Este proyecto es un dashboard interactivo de Business Intelligence desarrollado íntegramente en Microsoft Excel. Su objetivo principal es analizar el crecimiento histórico, la distribución geográfica y las preferencias de contenido del catálogo de Netflix para entender las tendencias estratégicas de la plataforma.
+## 🎯 Project Description
+This project is an interactive Business Intelligence dashboard built entirely in Microsoft Excel. Its primary objective is to analyze the historical growth, geographic distribution, and content preferences of Netflix's catalog in order to understand the platform's strategic trends.
 
-## 🛠️ Herramientas y Habilidades Demostradas
-* Power Query: Limpieza, transformación de datos y extracción de fechas (`date_added`).
-* Modelado de Datos: Creación de tablas dinámicas auxiliares para estructurar las métricas.
-* Visualización de Datos: Diseño de un dashboard corporativo con gráficos de barras apiladas al 100%, líneas de tendencia temporal y gráficos de anillos.
-* Interactividad: Uso de segmentadores de datos conectados de forma global.
+## 🛠️ Tools & Skills Demonstrated
+* **Power Query:** Data cleaning, transformation, and date extraction (`date_added`).
+* **Data Modeling:** Creation of auxiliary pivot tables to structure metrics.
+* **Data Visualization:** Design of a corporate-style dashboard featuring 100% stacked bar charts, temporal trend lines, and donut charts.
+* **Interactivity:** Implementation of globally connected data slicers.
 
-## 📈 Vista Previa del Dashboard
+## 📈 Dashboard Preview
 ![Dashboard Preview](./Dashboard.png)
 
-## 🔍 Hallazgos Principales
-* Dominio Geográfico: Estados Unidos lidera de forma absoluta el volumen de producción tanto en películas como en series.
-* Crecimiento Exponencial: A través del análisis de fechas de incorporación (`date_added`), se identifica que el pico de expansión de contenido de la plataforma ocurrió en el año 2019.
-* Preferencias de Contenido: Los géneros de dramas e internacionales dominan el peso porcentual del catálogo general.
+## 🔍 Key Findings
+* **Geographic Dominance:** The United States leads overwhelmingly in production volume for both movies and TV shows.
+* **Exponential Growth:** Through analysis of addition dates (`date_added`), the platform's peak content expansion is identified as occurring in 2019.
+* **Content Preferences:** Drama and International genres dominate the percentage weight of the overall catalog.
 
-## 📁 ¿Cómo ver el archivo?
-Puedes descargar el archivo completo **[Netflix-Content-Portfolio-Analysis](./Netflix-Content-Portfolio-Analysis.xlsx)** desde este repositorio y abrirlo en Excel para interactuar con los filtros y tablas dinámicas.
+## 📁 How to View the File
+You can download the complete file **[Netflix-Content-Portfolio-Analysis](./Netflix-Content-Portfolio-Analysis.xlsx)** from this repository and open it in Excel to interact with the filters and pivot tables.
